@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-live-forecast/static/css/main.71c3165f.css",
+    "main.js": "/weather-live-forecast/static/js/main.4b440785.js",
+    "static/media/hot.jpg": "/weather-live-forecast/static/media/hot.c5d4e9cfd37b1d4ef7c3.jpg",
+    "static/media/cold.jpg": "/weather-live-forecast/static/media/cold.bd9faca7667b70e2ddc2.jpg",
+    "index.html": "/weather-live-forecast/index.html",
+    "main.71c3165f.css.map": "/weather-live-forecast/static/css/main.71c3165f.css.map",
+    "main.4b440785.js.map": "/weather-live-forecast/static/js/main.4b440785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c3165f.css",
+    "static/js/main.4b440785.js"
+  ]
+}
